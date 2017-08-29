@@ -3,8 +3,8 @@ This is a Language Pack generated from the [official Magento2 translations proje
 The Czech (čeština) translations used can be found [here](https://crowdin.com/project/magento-2/cs).
 
 # Version & progress
-This translation is generated from the branch [Head](https://crowdin.com/project/magento-2/cs#/Head) at Crowdin and based on the Magento Head sourcefiles.
-There have been  12595 strings translated of the 12595 strings in the Magento source.
+This translation is generated from the branch [2.0.7](https://crowdin.com/project/magento-2/cs#/2.0.7) at Crowdin and based on the Magento 2.0.7 sourcefiles.
+There have been  10372 strings translated of the 10372 strings in the Magento source.
 
 Translation progress:![Progress](http://progressed.io/bar/100)
 
