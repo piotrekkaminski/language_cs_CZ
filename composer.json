@@ -1,9 +1,9 @@
 {
-    "name": "magento2translations/language_cs_cz",
+    "name": "piotrekkaminski/language_cs_cz",
     "description": "Czech (čeština) Magento2 Language Pack (cs_CZ) - Crowdsourced",
     "homepage": "http://magento2translations.github.io/",
     "license": [
-        "OSL-3.0",
+        "OSL-3.0"
     ],
     "authors": [
         {
